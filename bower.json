@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/Symplicity/angular-chart.js.git"
+    "url": "git://github.com/jtblin/angular-chart.js.git"
   },
   "description": "An angular.js wrapper for Chart.js - reactive, responsive, beautiful charts.",
   "moduleType": [
@@ -38,8 +38,7 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "1.x",
-    "chart.js": "https://github.com/chartjs/Chart.js.git#2.*"
+    "angular": "1.x"
   },
   "overrides" : {
     "chart.js": {
